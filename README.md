@@ -1,0 +1,2 @@
+# xxy
+use tesseract-ocr
