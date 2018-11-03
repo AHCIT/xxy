@@ -5,9 +5,9 @@
 #include <stdlib.h>
 #include <string.h>
 
- #define HOST	"113.251.223.105"
+ #define HOST	"ip"
  #define USERNAME "root"
- #define PASSWORD	"274934"
+ #define PASSWORD	"pwd"
  #define DATABASE	"xxy"
  
  
